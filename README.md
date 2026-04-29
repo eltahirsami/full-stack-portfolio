@@ -23,7 +23,6 @@ A complete system for managing schools with roles, attendance, scheduling, and s
 - Multi-language support (Arabic / English)
 - Real-time notifications (Email / WhatsApp)
 - Background jobs (Cron scheduling)
-- 
 ![School Dashboard](school-login.png)
 ![School Dashboard](imagesschooldashboard.png.jpeg)
 ## 🛠 Tech Stack
