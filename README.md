@@ -6,7 +6,7 @@ This portfolio showcases production-level projects including a School Management
 
 ---
 
-# 🏫 1. School Management System
+# 🏫 1. School Management System (for Students)
 
 A complete system for managing schools with roles, attendance, scheduling, and student/teacher portals.
 
